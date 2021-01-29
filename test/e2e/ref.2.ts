@@ -1,5 +1,5 @@
 /**
- * @see https://github.com/bcherny/json-schema-to-typescript/issues/56
+ * @see https://github.com/ryank1m/json-schema-to-typescript/issues/56
  */
 export const input = {
   $schema: 'http://json-schema.org/draft-04/schema#',

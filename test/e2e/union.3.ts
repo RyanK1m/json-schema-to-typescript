@@ -1,4 +1,4 @@
-// @see https://github.com/bcherny/json-schema-to-typescript/issues/352
+// @see https://github.com/ryank1m/json-schema-to-typescript/issues/352
 export const input = {
   $schema: 'http://json-schema.org/draft-07/schema',
   title: 'my-schema',

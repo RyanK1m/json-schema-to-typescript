@@ -34,7 +34,7 @@ async function main(argv: minimist.ParsedArgs) {
 
   if ((ISGLOB || ISDIR) && argOut && argOut.includes('.d.ts')) {
     throw new ReferenceError(
-      `You have specified a single file ${argOut} output for a multi file input ${argIn}. This feature is not yet supported, refer to issue #272 (https://github.com/bcherny/json-schema-to-typescript/issues/272)`
+      `You have specified a single file ${argOut} output for a multi file input ${argIn}. This feature is not yet supported, refer to issue #272 (https://github.com/ryank1m/json-schema-to-typescript/issues/272)`
     )
   }
 

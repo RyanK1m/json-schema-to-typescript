@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bcherny/json-schema-to-typescript.git"
+    "url": "git+https://github.com/ryank1m/json-schema-to-typescript.git"
   },
-  "author": "Boris Cherny <boris@performancejs.com> (http://performancejs.com/)",
+  "author": "Ryan Kim",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bcherny/json-schema-to-typescript/issues"
+    "url": "https://github.com/ryank1m/json-schema-to-typescript/issues"
   },
-  "homepage": "https://github.com/bcherny/json-schema-to-typescript#readme"
+  "homepage": "https://github.com/ryank1m/json-schema-to-typescript#readme"
 }

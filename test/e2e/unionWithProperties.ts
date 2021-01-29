@@ -1,4 +1,4 @@
-// @see https://github.com/bcherny/json-schema-to-typescript/pull/328
+// @see https://github.com/ryank1m/json-schema-to-typescript/pull/328
 export const input = {
   title: 'UnionWithProps',
   type: 'object',

@@ -1,6 +1,6 @@
 # Changelog
 
-*Note: This is a partial changelog, covering significant & breaking changes. For a full list of changes, please consult the [commit log](https://github.com/bcherny/json-schema-to-typescript/commits).
+*Note: This is a partial changelog, covering significant & breaking changes. For a full list of changes, please consult the [commit log](https://github.com/ryank1m/json-schema-to-typescript/commits).
 
 ## 10.1.0
 

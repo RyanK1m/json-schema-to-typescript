@@ -1,6 +1,6 @@
-# json-schema-to-typescript [![Build Status][build]](https://github.com/bcherny/json-schema-to-typescript/actions?query=branch%3Amaster+workflow%3ACI) [![npm]](https://www.npmjs.com/package/json-schema-to-typescript) [![mit]](https://opensource.org/licenses/MIT)
+# json-schema-to-typescript [![Build Status][build]](https://github.com/ryank1m/json-schema-to-typescript/actions?query=branch%3Amaster+workflow%3ACI) [![npm]](https://www.npmjs.com/package/json-schema-to-typescript) [![mit]](https://opensource.org/licenses/MIT)
 
-[build]: https://img.shields.io/github/workflow/status/bcherny/json-schema-to-typescript/CI/master?style=flat-square
+[build]: https://img.shields.io/github/workflow/status/ryank1m/json-schema-to-typescript/CI/master?style=flat-square
 [npm]: https://img.shields.io/npm/v/json-schema-to-typescript.svg?style=flat-square
 [mit]: https://img.shields.io/npm/l/json-schema-to-typescript.svg?style=flat-square
 
@@ -75,7 +75,7 @@ compile(mySchema, 'MySchema')
   .then(ts => ...)
 ```
 
-See [server demo](example) and [browser demo](https://github.com/bcherny/json-schema-to-typescript-browser) for full examples.
+See [server demo](example) and [browser demo](https://github.com/ryank1m/json-schema-to-typescript-browser) for full examples.
 
 ## Options
 
@@ -206,4 +206,4 @@ Prettier is known to run slowly on really big files. To skip formatting and impr
 - [Sourcegraph](https://github.com/sourcegraph/sourcegraph)
 - [Stryker](https://github.com/stryker-mutator/stryker)
 - [Webpack](https://github.com/webpack/webpack)
-- [See more](https://github.com/bcherny/json-schema-to-typescript/network/dependents?package_id=UGFja2FnZS0xNjUxOTM5Mg%3D%3D)
+- [See more](https://github.com/ryank1m/json-schema-to-typescript/network/dependents?package_id=UGFja2FnZS0xNjUxOTM5Mg%3D%3D)

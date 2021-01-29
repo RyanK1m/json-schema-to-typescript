@@ -1,6 +1,6 @@
 // Type definitions for json-schema-ref-parser 3.1.2
 // Project: https://www.npmjs.com/package/json-schema-ref-parser
-// Definitions by: Boris Cherny <https://github.com/bcherny>
+// Definitions by: Ryan Kim <https://github.com/ryank1m>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 // TypeScript Version: 2.1
 
